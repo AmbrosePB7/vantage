@@ -1,4 +1,4 @@
-# VANTAGE — Evidence-First Financial Intelligence Platform
+# VANTAGE 
 
 VANTAGE transforms raw, heterogeneous financial CSV files into an evidence-backed answer to:
 > **"Am I financially healthy, what changed, what is risky, and what should I do next?"**
