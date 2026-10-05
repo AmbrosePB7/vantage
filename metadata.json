@@ -1,0 +1,7 @@
+{
+  "name": "Vantage — Evidence-First Financial Intelligence",
+  "description": "Deterministic financial intelligence platform transforming raw financial CSV files into health scores, risk analysis, decision simulations, and evidence-backed insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
