@@ -15,15 +15,12 @@ RAW CSV → Schema Detection → Column Normalization → Validation → Canonic
                                                                              Verified Structured Facts → AI Explanation Layer
 ```
 
-**Golden Rule:** *Normalize once. Validate once. Calculate once. Reuse everywhere.*
-
 ---
 
 ## Tech Stack
 
 - **Backend & Core Engine**: TypeScript, Node.js, Express, Pydantic-style validation models
 - **Frontend**: React 19, Vite, Tailwind CSS, Lucide Icons
-- **AI & Explanation**: `@google/genai` (Gemini 2.5 Flash) with deterministic factual fallback
 - **Voice / Audio**: Web Speech API executive audio briefing
 
 ---
